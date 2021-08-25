@@ -1,0 +1,17 @@
+{
+    "name": "mehdighasemi/discount-woocommerce",
+    "description": "discount woocommerce if sale another product",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "mehdi ghasemi",
+            "email": "soalwordpress@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"DWP\\":"./include"}
+    },
+    "require": {}
+}
